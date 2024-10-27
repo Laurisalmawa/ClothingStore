@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bbee5ce-ca7e-4e9c-8da6-943ab5858a81" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/controller/ClothesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/controller/clothesenum/ClothesColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/controller/clothesenum/ClothesSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/controller/dto/ClothesListResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/controller/dto/ClothesRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/controller/dto/ClothesResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/controller/dto/CreateClothesRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/controller/dto/GetClothesListRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/controller/dto/UpdateClothesRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/controller/impl/ClothesControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/controller/mapper/ClothesRestMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/repository/ClothesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/repository/entity/ClothesEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/service/ClothesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/service/command/CreateClothesCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/service/command/DeleteClothesCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/service/command/GetClothesCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/service/command/GetClothesListCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/service/command/UpdateClothesCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/service/impl/ClothesServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laurisalmawa/clothingstore/service/model/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/swagger.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.0.12/spring-web-6.0.12-sources.jar!/org/springframework/http/ResponseEntity.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mwMXk8FNgaJQWMvxC7dBFh9bH0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Maven.pullandbear [clean,compile].executor": "Run",
+    "Maven.pullandbear [clean,install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.laurisalmawa.clothingstore.controller.mapper" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean compile" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laurisalmawa.clothingstore.Application" />
+      <module name="pullandbear" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laurisalmawa.clothingstore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bbee5ce-ca7e-4e9c-8da6-943ab5858a81" name="Changes" comment="" />
+      <created>1727983239297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727983239297</updated>
+    </task>
+    <servers />
+  </component>
+</project>
